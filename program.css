@@ -1,0 +1,35 @@
+p {
+
+margin:0 auto;
+border-radius:8px;
+font-family:Arial, sans-serif;
+width:300px;
+padding:20px;
+background-color:rgb(235, 201, 207)
+}
+h1{
+text-align:center;
+color:green;
+}
+
+button{
+    display :black;
+    width:100px;
+    color:white;
+    border:none;
+    border-radius: 4px;
+    cursor:pointer;
+    padding:10px;
+}
+input[type="text"]{
+    display:block;
+    width:95%;
+    padding:8px;
+    border:1px solid rgb(18, 150, 44);
+    border-radius:4px;
+    margin-bottom:15px;
+}
+input[type="radio"]{
+    margin-right:2px;
+}
+
